@@ -1,2 +1,1 @@
-# MasteringCloudComputing
-MasteringCloudComputing
+# All the AWS Stuffs I'm Learning
